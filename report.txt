@@ -1,0 +1,5 @@
+Current Letter Grade: D with 60.0 points.
+
+One possibility for A -> In Practice problems you need more :6.0 points, in lab :8.0 points, and in Final exam: 16.0 points.
+One possibility for B -> In Practice problems you need more :6.0 points, in lab :6.0 points, and in Final exam: 12.0 points.
+One possibility for C -> In Practice problems you need more :6.0 points, in lab :2.0 points, and in Final exam: 4.0 points.
